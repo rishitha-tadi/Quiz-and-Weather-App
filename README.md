@@ -100,4 +100,4 @@ This project helped in improving frontend development skills using HTML, CSS, an
 # ⭐ Author
 
 **Tadi Rishitha**  
-Aspiring Frontend Developer | HTML | CSS | JavaScript | React.js
+Aspiring Frontend Developer | HTML | CSS | JavaScript
